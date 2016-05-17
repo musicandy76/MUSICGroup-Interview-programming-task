@@ -1,1 +1,1 @@
-g++ --std=c++11 -lpthread -fpermissive -o prog MUSICGroup.cpp JobProcessor.cpp
+g++ --std=c++11 -pthread -o prog MUSICGroup.cpp JobProcessor.cpp
